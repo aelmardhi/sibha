@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sibha</string>
+    <string name="dum">hjasd</string>
+    <string name="message">click screen to count \nlong click to reset counter</string>
+</resources>

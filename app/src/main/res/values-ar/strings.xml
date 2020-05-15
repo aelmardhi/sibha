@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">سبحة</string>
+    <string name="message">المس الشاشة للعد\n المس مطولا لاعادة العداد للصفر</string>
+</resources>
